@@ -90,6 +90,8 @@ body {
     color: white;
     background: #000000;
     font-family: "Muli-Regular", Arial, sans-serif;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 
 h1 {
@@ -140,7 +142,7 @@ a {
 
 p {
     font-size: 14pt;
-    line-height: 80%;
+    line-height: 150%;
     font-weight: normal;
 }
 
